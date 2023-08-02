@@ -1,0 +1,50 @@
+[
+  {
+    "name": "E-Commerce App on Web Development",
+    "desc": "I worked on user-friendly Web Application over the usage of Java,servlet,html and CSS.The project is all about buying the vegetables using this online application.",
+    "image": "veg",
+    "category": "basicweb",
+    "links": {
+   
+      "code": "https://github.com/SnehaDev22/E-commerce-using-servlet-html-and-css"
+    }
+  },
+ 
+  {
+    "name": "My Demo Portfolio",
+    "desc": "Responsive Personal Portfolio Website Using HTML CSS & JavaScript",
+    "image": "port1",
+    "category": "basicweb",
+    "links": {
+      
+      "code": "https://github.com/SnehaDev22/My-Portfolio"
+    }
+  },
+
+  {
+    "name": "Petshop Inventory Management",
+    "desc": "It is a inventory management java swing application made using JDBC,Core Java and to add new pet product data with real-time total price calculation.",
+    "image": "pet",
+    "category": "inventory-management",
+    "links": {
+     
+      "code": "https://github.com/SnehaDev22/MVC-Petshop-in-JDBC-"
+    }
+  },
+ 
+  
+  
+ 
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "port2",
+    "category": "basicweb",
+    "links": {
+     
+      "code": ""
+    }
+  }
+  
+  
+]
